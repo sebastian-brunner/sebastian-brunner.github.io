@@ -17,8 +17,7 @@
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>https://sebastian-brunner.github.io/publication/ral1/</guid>
-      <description>&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -50,8 +49,7 @@
       <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
       
       <guid>https://sebastian-brunner.github.io/publication/rafcon_iros/</guid>
-      <description>&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -60,9 +58,9 @@
       <pubDate>Sun, 13 Sep 2015 00:00:00 +0000</pubDate>
       
       <guid>https://sebastian-brunner.github.io/project/spacebotcamp/</guid>
-      <description>&lt;p&gt;In the SpacebotCamp, a mobile system had to explore an unknwon area, find two objects and bring them to a third object for assembly. All tasks had to be done with a high level of autonomy since communication was delayed by 2 seconds and sending commands was limited to only a few occasions. The whole task had to be done in 60 minutes.&lt;/p&gt;
+      <description>&lt;p&gt;In the SpacebotCamp, our mobile robotic system had to explore an unknwon area, find two objects and bring them to a third object for assembly. All tasks had to be done with a high level of autonomy since communication was delayed by 2 seconds and sending commands was limited to only a few occasions. The whole task had to be done in 60 minutes.&lt;/p&gt;
 
-&lt;p&gt;RMexplores! was the only team that fulfilled all tasks within the given specification. This was accomplished in halve of the time!&lt;/p&gt;
+&lt;p&gt;Our team, RMexplores!, was the only team that fulfilled all tasks within the given specification. This was accomplished in halve of the time!&lt;/p&gt;
 
 &lt;p&gt;My responsibilities: Autonomous Task Control, System Architecture&lt;/p&gt;
 </description>

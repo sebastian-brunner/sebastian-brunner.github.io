@@ -28,7 +28,7 @@
   
     
   
-  <meta name="description" content="Semantic World Model based on a Graph Database">
+  <meta name="description" content="Semantic world model based on a graph database">
 
   
   <link rel="alternate" hreflang="en-us" href="https://sebastian-brunner.github.io/project/world_model/">
@@ -109,7 +109,7 @@
   <meta property="og:site_name" content="Sebastian Brunner">
   <meta property="og:url" content="https://sebastian-brunner.github.io/project/world_model/">
   <meta property="og:title" content="Semantic World Model | Sebastian Brunner">
-  <meta property="og:description" content="Semantic World Model based on a Graph Database"><meta property="og:image" content="https://sebastian-brunner.github.io/project/world_model/featured.png">
+  <meta property="og:description" content="Semantic world model based on a graph database"><meta property="og:image" content="https://sebastian-brunner.github.io/project/world_model/featured.png">
   <meta property="og:locale" content="en-us">
   
   <meta property="article:published_time" content="2014-02-10T00:00:00&#43;00:00">
@@ -347,7 +347,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/files/cv.pdf"><span>CV</span></a>
+          <a class="nav-link " href="/files/cv_short.pdf"><span>CV</span></a>
         </li>
 
         
@@ -716,7 +716,7 @@ We define and ensure a common type-system for objects in the world, by defining 
 
 <p>A database as backend in general provides useful features to keep the world model consistent at any time, e.g. synchronized multi-client read-/write-access and transaction support for batching multiple modifications into an atomic operation.
 In particular, we use transactions with pre-/post-transaction sanity checks to allow complex yet safe operations on the world model. In case of a software error or violated sanity checks (e.g. a world model object suddenly has two parents), the world model is automatically rolled back to the consistent state before this modification.
-As a graph database, Neo4j offers a pattern-related query language called \textit{CYPHER}, which makes it very easy to query the world model for e.g. &ldquo;all rigid bodies for which a grasp is defined.&rdquo;</p>
+As a graph database, Neo4j offers a pattern-related query language called CYPHER, which makes it very easy to query the world model for e.g. &ldquo;all rigid bodies for which a grasp is defined.&rdquo;</p>
 
 <p>We use YAML-files as a human read-/writeable way to specify the initial world model, but also complex object templates (e.g. complete subgraphs of PhysicalObjects together with attached Grasps and Markers, etc.). To add such templates into the world model, we developed a domain-specific module and API for higher level operations based on the raw CYPHER-access to the database.
 Other more complex operations include querying the relative transformation between arbitrary objects in the graph or maintaining unique labels for nodes. This API is the basis for several adapter modules which make operations accessible via ROS services. New functionality or composite operations can be added in a modular way by writing additional adapters as necessary.</p>
@@ -732,6 +732,8 @@ Other more complex operations include querying the relative transformation betwe
   <a class="badge badge-light" href="/tags/graph-database/">Graph Database</a>
   
   <a class="badge badge-light" href="/tags/semantic-knowledge-base/">Semantic Knowledge Base</a>
+  
+  <a class="badge badge-light" href="/tags/python/">Python</a>
   
 </div>
 

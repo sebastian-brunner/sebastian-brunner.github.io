@@ -66,6 +66,15 @@
     </item>
     
     <item>
+      <title>Python</title>
+      <link>https://sebastian-brunner.github.io/tags/python/</link>
+      <pubDate>Tue, 10 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sebastian-brunner.github.io/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Software</title>
       <link>https://sebastian-brunner.github.io/tags/software/</link>
       <pubDate>Tue, 10 Jul 2018 00:00:00 +0000</pubDate>
@@ -129,6 +138,15 @@
     </item>
     
     <item>
+      <title>C&#43;&#43;</title>
+      <link>https://sebastian-brunner.github.io/tags/c&#43;&#43;/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://sebastian-brunner.github.io/tags/c&#43;&#43;/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Communication</title>
       <link>https://sebastian-brunner.github.io/tags/communication/</link>
       <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
@@ -170,6 +188,24 @@
       <pubDate>Mon, 31 Mar 2014 00:00:00 +0000</pubDate>
       
       <guid>https://sebastian-brunner.github.io/tags/bundle-adjustment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OpenCL</title>
+      <link>https://sebastian-brunner.github.io/tags/opencl/</link>
+      <pubDate>Mon, 31 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://sebastian-brunner.github.io/tags/opencl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OpenGL</title>
+      <link>https://sebastian-brunner.github.io/tags/opengl/</link>
+      <pubDate>Mon, 31 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://sebastian-brunner.github.io/tags/opengl/</guid>
       <description></description>
     </item>
     

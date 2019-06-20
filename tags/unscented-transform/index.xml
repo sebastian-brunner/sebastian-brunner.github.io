@@ -25,7 +25,7 @@
 &lt;li&gt;transform the covariance of a pose from one coordinate frame into another&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;For all functions the user can choose the computation method: UNSCENTED, JACOBIAN, SAMPLING. The computation methods are a trade-off between accuracy and computation speed. The library includes functions for normalization, representation conversions and pose transformations (like composition, inversion etc.).&lt;/p&gt;
+&lt;p&gt;For all functions the user can choose the computation method: UNSCENTED, JACOBIAN, SAMPLING. The computation methods are a trade-off between accuracy and computation speed. The library includes functions for normalization, representation conversion and pose transformation (like composition, inversion etc.).&lt;/p&gt;
 </description>
     </item>
     
