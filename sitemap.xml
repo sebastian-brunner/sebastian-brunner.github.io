@@ -57,14 +57,14 @@
   </url>
   
   <url>
-    <loc>https://sebastian-brunner.github.io/tags/autonomous-agents/</loc>
+    <loc>https://sebastian-brunner.github.io/publication/ral2/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sebastian-brunner.github.io/publication/ral2/</loc>
+    <loc>https://sebastian-brunner.github.io/tags/autonomy/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -116,7 +116,7 @@
   
   <url>
     <loc>https://sebastian-brunner.github.io/tags/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -139,12 +139,6 @@
   <url>
     <loc>https://sebastian-brunner.github.io/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sebastian-brunner.github.io/tags/autonomy/</loc>
-    <lastmod>2018-07-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -207,6 +201,12 @@
   
   <url>
     <loc>https://sebastian-brunner.github.io/authors/rico-belder/</loc>
+    <lastmod>2018-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sebastian-brunner.github.io/tags/robotics/</loc>
     <lastmod>2018-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -278,12 +278,6 @@
   </url>
   
   <url>
-    <loc>https://sebastian-brunner.github.io/tags/lru/</loc>
-    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://sebastian-brunner.github.io/authors/mallikarjuna-vayugundla/</loc>
     <lastmod>2017-11-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -309,6 +303,12 @@
   
   <url>
     <loc>https://sebastian-brunner.github.io/authors/oliver-porges/</loc>
+    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sebastian-brunner.github.io/tags/ros/</loc>
     <lastmod>2017-11-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -354,12 +354,6 @@
   </url>
   
   <url>
-    <loc>https://sebastian-brunner.github.io/tags/robotics/</loc>
-    <lastmod>2017-06-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://sebastian-brunner.github.io/publication_types/1/</loc>
     <lastmod>2016-10-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -383,20 +377,8 @@
   </url>
   
   <url>
-    <loc>https://sebastian-brunner.github.io/tags/academic/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://sebastian-brunner.github.io/post/getting-started/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sebastian-brunner.github.io/tags/ros/</loc>
-    <lastmod>2015-09-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -462,7 +444,7 @@
   </url>
   
   <url>
-    <loc>https://sebastian-brunner.github.io/tags/semantic-knowledge/</loc>
+    <loc>https://sebastian-brunner.github.io/tags/semantic-knowledge-base/</loc>
     <lastmod>2014-02-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

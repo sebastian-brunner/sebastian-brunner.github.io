@@ -12,11 +12,11 @@
     
     
     <item>
-      <title>Autonomous Agents</title>
-      <link>https://sebastian-brunner.github.io/tags/autonomous-agents/</link>
+      <title>Autonomy</title>
+      <link>https://sebastian-brunner.github.io/tags/autonomy/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://sebastian-brunner.github.io/tags/autonomous-agents/</guid>
+      <guid>https://sebastian-brunner.github.io/tags/autonomy/</guid>
       <description></description>
     </item>
     
@@ -44,15 +44,6 @@
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>https://sebastian-brunner.github.io/tags/scheduling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Autonomy</title>
-      <link>https://sebastian-brunner.github.io/tags/autonomy/</link>
-      <pubDate>Tue, 10 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://sebastian-brunner.github.io/tags/autonomy/</guid>
       <description></description>
     </item>
     
@@ -93,6 +84,15 @@
     </item>
     
     <item>
+      <title>Robotics</title>
+      <link>https://sebastian-brunner.github.io/tags/robotics/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sebastian-brunner.github.io/tags/robotics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Task Analysis</title>
       <link>https://sebastian-brunner.github.io/tags/task-analysis/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
@@ -102,11 +102,11 @@
     </item>
     
     <item>
-      <title>LRU</title>
-      <link>https://sebastian-brunner.github.io/tags/lru/</link>
+      <title>ROS</title>
+      <link>https://sebastian-brunner.github.io/tags/ros/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://sebastian-brunner.github.io/tags/lru/</guid>
+      <guid>https://sebastian-brunner.github.io/tags/ros/</guid>
       <description></description>
     </item>
     
@@ -120,38 +120,11 @@
     </item>
     
     <item>
-      <title>Robotics</title>
-      <link>https://sebastian-brunner.github.io/tags/robotics/</link>
-      <pubDate>Mon, 26 Jun 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://sebastian-brunner.github.io/tags/robotics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>State Machines</title>
       <link>https://sebastian-brunner.github.io/tags/state-machines/</link>
       <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
       
       <guid>https://sebastian-brunner.github.io/tags/state-machines/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Academic</title>
-      <link>https://sebastian-brunner.github.io/tags/academic/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://sebastian-brunner.github.io/tags/academic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ROS</title>
-      <link>https://sebastian-brunner.github.io/tags/ros/</link>
-      <pubDate>Sun, 13 Sep 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://sebastian-brunner.github.io/tags/ros/</guid>
       <description></description>
     </item>
     
@@ -219,11 +192,11 @@
     </item>
     
     <item>
-      <title>Semantic Knowledge</title>
-      <link>https://sebastian-brunner.github.io/tags/semantic-knowledge/</link>
+      <title>Semantic Knowledge Base</title>
+      <link>https://sebastian-brunner.github.io/tags/semantic-knowledge-base/</link>
       <pubDate>Mon, 10 Feb 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://sebastian-brunner.github.io/tags/semantic-knowledge/</guid>
+      <guid>https://sebastian-brunner.github.io/tags/semantic-knowledge-base/</guid>
       <description></description>
     </item>
     
