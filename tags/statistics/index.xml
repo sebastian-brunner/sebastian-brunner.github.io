@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Statistics on Sebastian Brunner</title>
+    <link>https://sebastian-brunner.github.io/tags/statistics/</link>
+    <description>Recent content in Statistics on Sebastian Brunner</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Feb 2014 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://sebastian-brunner.github.io/tags/statistics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>NLCT</title>
+      <link>https://sebastian-brunner.github.io/project/nlct/</link>
+      <pubDate>Mon, 10 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://sebastian-brunner.github.io/project/nlct/</guid>
+      <description>&lt;p&gt;NLCT is a lightweight library written in C++ to:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;convert the covariance matrices for poses between different representations: Quaternions, Euler Angle (both fixed and moving frames)&lt;/li&gt;
+&lt;li&gt;compute the composition of multiple certain and uncertain poses&lt;/li&gt;
+&lt;li&gt;transform the covariance of a pose from one coordinate frame into another&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;For all functions the user can choose the computation method: UNSCENTED, JACOBIAN, SAMPLING. The computation methods are a trade-off between accuracy and computation speed. The library includes functions for normalization, representation conversions and pose transformations (like composition, inversion etc.).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

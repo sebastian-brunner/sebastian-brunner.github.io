@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on Academic</title>
+    <title>Authors on Sebastian Brunner</title>
     <link>https://sebastian-brunner.github.io/authors/</link>
-    <description>Recent content in Authors on Academic</description>
+    <description>Recent content in Authors on Sebastian Brunner</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://sebastian-brunner.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,21 +14,263 @@
     <item>
       <title></title>
       <link>https://sebastian-brunner.github.io/authors/admin/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>https://sebastian-brunner.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.&lt;/p&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.&lt;/p&gt;
+      <description>&lt;p&gt;Sebastian Brunner is a researcher at the Department of Cognitive Robotics in the Institute of Robotics and Mechatronics, German Aerospace Center (DLR).
+His current research interests include robotics, AI, and autonomous system architectures.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Robert Ford</title>
-      <link>https://sebastian-brunner.github.io/authors/robert-ford/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <title>Andreas Doemel</title>
+      <link>https://sebastian-brunner.github.io/authors/andreas-doemel/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://sebastian-brunner.github.io/authors/robert-ford/</guid>
+      <guid>https://sebastian-brunner.github.io/authors/andreas-doemel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Freek Stulp</title>
+      <link>https://sebastian-brunner.github.io/authors/freek-stulp/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://sebastian-brunner.github.io/authors/freek-stulp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michael Beetz</title>
+      <link>https://sebastian-brunner.github.io/authors/michael-beetz/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://sebastian-brunner.github.io/authors/michael-beetz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peter Lehner</title>
+      <link>https://sebastian-brunner.github.io/authors/peter-lehner/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://sebastian-brunner.github.io/authors/peter-lehner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Armin Wedler</title>
+      <link>https://sebastian-brunner.github.io/authors/armin-wedler/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sebastian-brunner.github.io/authors/armin-wedler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daniel Leidner</title>
+      <link>https://sebastian-brunner.github.io/authors/daniel-leidner/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sebastian-brunner.github.io/authors/daniel-leidner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Martin Johannes Schuster</title>
+      <link>https://sebastian-brunner.github.io/authors/martin-johannes-schuster/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sebastian-brunner.github.io/authors/martin-johannes-schuster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rico Belder</title>
+      <link>https://sebastian-brunner.github.io/authors/rico-belder/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sebastian-brunner.github.io/authors/rico-belder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sebastian Riedel</title>
+      <link>https://sebastian-brunner.github.io/authors/sebastian-riedel/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sebastian-brunner.github.io/authors/sebastian-riedel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bernhard Vodermayer</title>
+      <link>https://sebastian-brunner.github.io/authors/bernhard-vodermayer/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sebastian-brunner.github.io/authors/bernhard-vodermayer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christian Nissler</title>
+      <link>https://sebastian-brunner.github.io/authors/christian-nissler/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sebastian-brunner.github.io/authors/christian-nissler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christoph Brand</title>
+      <link>https://sebastian-brunner.github.io/authors/christoph-brand/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sebastian-brunner.github.io/authors/christoph-brand/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Felix Ruess</title>
+      <link>https://sebastian-brunner.github.io/authors/felix-ruess/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sebastian-brunner.github.io/authors/felix-ruess/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hannah Lehner</title>
+      <link>https://sebastian-brunner.github.io/authors/hannah-lehner/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sebastian-brunner.github.io/authors/hannah-lehner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heiko Hirschmueller</title>
+      <link>https://sebastian-brunner.github.io/authors/heiko-hirschmueller/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sebastian-brunner.github.io/authors/heiko-hirschmueller/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Iris Grixa</title>
+      <link>https://sebastian-brunner.github.io/authors/iris-grixa/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sebastian-brunner.github.io/authors/iris-grixa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Josef Reill</title>
+      <link>https://sebastian-brunner.github.io/authors/josef-reill/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sebastian-brunner.github.io/authors/josef-reill/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kristin Bussmann</title>
+      <link>https://sebastian-brunner.github.io/authors/kristin-bussmann/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sebastian-brunner.github.io/authors/kristin-bussmann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mallikarjuna Vayugundla</title>
+      <link>https://sebastian-brunner.github.io/authors/mallikarjuna-vayugundla/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sebastian-brunner.github.io/authors/mallikarjuna-vayugundla/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matthias Hellerer</title>
+      <link>https://sebastian-brunner.github.io/authors/matthias-hellerer/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sebastian-brunner.github.io/authors/matthias-hellerer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michael Kassecker</title>
+      <link>https://sebastian-brunner.github.io/authors/michael-kassecker/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sebastian-brunner.github.io/authors/michael-kassecker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michael Suppa</title>
+      <link>https://sebastian-brunner.github.io/authors/michael-suppa/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sebastian-brunner.github.io/authors/michael-suppa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oliver Porges</title>
+      <link>https://sebastian-brunner.github.io/authors/oliver-porges/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sebastian-brunner.github.io/authors/oliver-porges/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stefan Buettner</title>
+      <link>https://sebastian-brunner.github.io/authors/stefan-buettner/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sebastian-brunner.github.io/authors/stefan-buettner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tim Bodenmueller</title>
+      <link>https://sebastian-brunner.github.io/authors/tim-bodenmueller/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sebastian-brunner.github.io/authors/tim-bodenmueller/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Werner Friedl</title>
+      <link>https://sebastian-brunner.github.io/authors/werner-friedl/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sebastian-brunner.github.io/authors/werner-friedl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zoltan-Csaba Marton</title>
+      <link>https://sebastian-brunner.github.io/authors/zoltan-csaba-marton/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sebastian-brunner.github.io/authors/zoltan-csaba-marton/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Franz Steinmetz</title>
+      <link>https://sebastian-brunner.github.io/authors/franz-steinmetz/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://sebastian-brunner.github.io/authors/franz-steinmetz/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peter Lehner on Sebastian Brunner</title>
+    <link>https://sebastian-brunner.github.io/authors/peter-lehner/</link>
+    <description>Recent content in Peter Lehner on Sebastian Brunner</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://sebastian-brunner.github.io/authors/peter-lehner/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Autonomous Parallelization of Resource-Aware Robotic Task Nodes</title>
+      <link>https://sebastian-brunner.github.io/publication/ral2/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://sebastian-brunner.github.io/publication/ral2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design, Execution, and Post-Mortem Analysis of Prolonged Autonomous Robot Operations</title>
+      <link>https://sebastian-brunner.github.io/publication/ral1/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sebastian-brunner.github.io/publication/ral1/</guid>
+      <description>&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Towards Autonomous Planetary Exploration: The Lightweight Rover Unit (LRU), its Success in the SpaceBotCamp Challenge, and Beyond</title>
+      <link>https://sebastian-brunner.github.io/publication/jint/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sebastian-brunner.github.io/publication/jint/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>System Architecture on Sebastian Brunner</title>
+    <link>https://sebastian-brunner.github.io/tags/system-architecture/</link>
+    <description>Recent content in System Architecture on Sebastian Brunner</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 Jul 2018 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://sebastian-brunner.github.io/tags/system-architecture/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>RAFCON</title>
+      <link>https://sebastian-brunner.github.io/project/rafcon/</link>
+      <pubDate>Tue, 10 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sebastian-brunner.github.io/project/rafcon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robex</title>
+      <link>https://sebastian-brunner.github.io/project/robex/</link>
+      <pubDate>Mon, 26 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sebastian-brunner.github.io/project/robex/</guid>
+      <description>&lt;p&gt;For the Demonstration Mission Space a dedicated scenario was chosen by the ROBEX lunar scientists. The scenario describes the installation of an active seismic network (ASN) on the Moon’s surface. Main focus here is the measurement of the internal structure and the composition of the upper layer, the lunar regolith. Other questions are the existence and composition of a central core of the Moon and if there is any seismic activity. The seismometers are planned to be transported by a rover and put down on surface by means of a robotic arm.&lt;/p&gt;
+
+&lt;p&gt;The analogue mission on the Mt. Etna basically consisted of two individual experiments: First, our rover mapped the lander site, deployed the seismic instrument, waited until one measurement cycle was done, took it up again and repeated the measurement on several points of interest. In the second experiment, the rover had to set up a seismic network consisting of four instruments that had to be arranged at three corner points and the center point of an equilateral triangle of about 100 m. Both scenarios required the robot to be equipped with highly robust navigation, perception and manipulation capabilities in order to place the instruments carefully and precisely onto the ground. Our robot was able to perform these tasks fully autonomously.&lt;/p&gt;
+
+&lt;p&gt;My responsibilities: Autonomous Task Control, System Architecture, Task Execution Logging and Profiling, Semantic World Modeling&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SpacebotCamp</title>
+      <link>https://sebastian-brunner.github.io/project/spacebotcamp/</link>
+      <pubDate>Sun, 13 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://sebastian-brunner.github.io/project/spacebotcamp/</guid>
+      <description>&lt;p&gt;In the SpacebotCamp, a mobile system had to explore an unknwon area, find two objects and bring them to a third object for assembly. All tasks had to be done with a high level of autonomy since communication was delayed by 2 seconds and sending commands was limited to only a few occasions. The whole task had to be done in 60 minutes.&lt;/p&gt;
+
+&lt;p&gt;RMexplores! was the only team that fulfilled all tasks within the given specification. This was accomplished in halve of the time!&lt;/p&gt;
+
+&lt;p&gt;My responsibilities: Autonomous Task Control, System Architecture&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robotics on Sebastian Brunner</title>
+    <link>https://sebastian-brunner.github.io/tags/robotics/</link>
+    <description>Recent content in Robotics on Sebastian Brunner</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 26 Jun 2017 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://sebastian-brunner.github.io/tags/robotics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Robex</title>
+      <link>https://sebastian-brunner.github.io/project/robex/</link>
+      <pubDate>Mon, 26 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sebastian-brunner.github.io/project/robex/</guid>
+      <description>&lt;p&gt;For the Demonstration Mission Space a dedicated scenario was chosen by the ROBEX lunar scientists. The scenario describes the installation of an active seismic network (ASN) on the Moon’s surface. Main focus here is the measurement of the internal structure and the composition of the upper layer, the lunar regolith. Other questions are the existence and composition of a central core of the Moon and if there is any seismic activity. The seismometers are planned to be transported by a rover and put down on surface by means of a robotic arm.&lt;/p&gt;
+
+&lt;p&gt;The analogue mission on the Mt. Etna basically consisted of two individual experiments: First, our rover mapped the lander site, deployed the seismic instrument, waited until one measurement cycle was done, took it up again and repeated the measurement on several points of interest. In the second experiment, the rover had to set up a seismic network consisting of four instruments that had to be arranged at three corner points and the center point of an equilateral triangle of about 100 m. Both scenarios required the robot to be equipped with highly robust navigation, perception and manipulation capabilities in order to place the instruments carefully and precisely onto the ground. Our robot was able to perform these tasks fully autonomously.&lt;/p&gt;
+
+&lt;p&gt;My responsibilities: Autonomous Task Control, System Architecture, Task Execution Logging and Profiling, Semantic World Modeling&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SpacebotCamp</title>
+      <link>https://sebastian-brunner.github.io/project/spacebotcamp/</link>
+      <pubDate>Sun, 13 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://sebastian-brunner.github.io/project/spacebotcamp/</guid>
+      <description>&lt;p&gt;In the SpacebotCamp, a mobile system had to explore an unknwon area, find two objects and bring them to a third object for assembly. All tasks had to be done with a high level of autonomy since communication was delayed by 2 seconds and sending commands was limited to only a few occasions. The whole task had to be done in 60 minutes.&lt;/p&gt;
+
+&lt;p&gt;RMexplores! was the only team that fulfilled all tasks within the given specification. This was accomplished in halve of the time!&lt;/p&gt;
+
+&lt;p&gt;My responsibilities: Autonomous Task Control, System Architecture&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Robocup</title>
+      <link>https://sebastian-brunner.github.io/project/robocup/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://sebastian-brunner.github.io/project/robocup/</guid>
+      <description>&lt;p&gt;The Logistics League of the Robocup was set up in 2010 as a demonstration league for industrial applications and is sponsored by Festo since then. In 2012 the league got promoted to an approved major league of the RoboCup with continuously growing importance. The Logistics League enables scientific work for solving logistical problems inside a dynamic production environment with multiple self-organizing autonomous mobile robots. The robots are currently based on the robot platform Robotino from Festo, but can be modified individually in terms of hardware. In order to provide a high rate of product deliveries in due time, the teams have to achieve an efficient, precise and flexible material and information flow within the production hall. From 2014 on both competing teams operate within the same production environment at the same time, which also requires dynamic collision avoidance and increased spatial coordination complexity. This league offers an interdisciplinary approach in the fields of Mechatronics, Computer Science and Logistics in order to deal with all the challenges and requirements further described in the Logistics League Rulebook, including dynamic production plans, out-of-order machines, recycling, changing delivery gates and a random machine distribution.&lt;/p&gt;
+
+&lt;p&gt;We the Bavarian Bending Units won the world championship three times in a row in the RoboCup Logistics League at RoboCup 2011 in Istanbul, at RoboCup 2012 in Mexico City, as well as at RoboCup 2013 in Eindhoven, Netherlands. In 2014, at RoboCup 2014 in João Pessoa, Brazil, we became vice world champion in an exciting and attractive final game against the team Carologistics from Aachen.&lt;/p&gt;
+
+&lt;p&gt;My responsibilities: Perception, Navigation, ROS Infrastructure, Robot Communication&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

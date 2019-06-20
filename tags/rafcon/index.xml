@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RAFCON on Sebastian Brunner</title>
+    <link>https://sebastian-brunner.github.io/tags/rafcon/</link>
+    <description>Recent content in RAFCON on Sebastian Brunner</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://sebastian-brunner.github.io/tags/rafcon/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Autonomous Parallelization of Resource-Aware Robotic Task Nodes</title>
+      <link>https://sebastian-brunner.github.io/publication/ral2/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://sebastian-brunner.github.io/publication/ral2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RAFCON</title>
+      <link>https://sebastian-brunner.github.io/project/rafcon/</link>
+      <pubDate>Tue, 10 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sebastian-brunner.github.io/project/rafcon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design, Execution, and Post-Mortem Analysis of Prolonged Autonomous Robot Operations</title>
+      <link>https://sebastian-brunner.github.io/publication/ral1/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sebastian-brunner.github.io/publication/ral1/</guid>
+      <description>&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Towards Autonomous Planetary Exploration: The Lightweight Rover Unit (LRU), its Success in the SpaceBotCamp Challenge, and Beyond</title>
+      <link>https://sebastian-brunner.github.io/publication/jint/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sebastian-brunner.github.io/publication/jint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RAFCON: A Graphical Tool for Engineering Complex, Robotic Tasks</title>
+      <link>https://sebastian-brunner.github.io/publication/rafcon_iros/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://sebastian-brunner.github.io/publication/rafcon_iros/</guid>
+      <description>&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SpacebotCamp</title>
+      <link>https://sebastian-brunner.github.io/project/spacebotcamp/</link>
+      <pubDate>Sun, 13 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://sebastian-brunner.github.io/project/spacebotcamp/</guid>
+      <description>&lt;p&gt;In the SpacebotCamp, a mobile system had to explore an unknwon area, find two objects and bring them to a third object for assembly. All tasks had to be done with a high level of autonomy since communication was delayed by 2 seconds and sending commands was limited to only a few occasions. The whole task had to be done in 60 minutes.&lt;/p&gt;
+
+&lt;p&gt;RMexplores! was the only team that fulfilled all tasks within the given specification. This was accomplished in halve of the time!&lt;/p&gt;
+
+&lt;p&gt;My responsibilities: Autonomous Task Control, System Architecture&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
