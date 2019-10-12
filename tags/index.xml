@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Sebastian Brunner</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://sebastian-brunner.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,54 @@
     <item>
       <title>Autonomy</title>
       <link>https://sebastian-brunner.github.io/tags/autonomy/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 28 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>https://sebastian-brunner.github.io/tags/autonomy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Industrial</title>
+      <link>https://sebastian-brunner.github.io/tags/industrial/</link>
+      <pubDate>Sun, 28 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://sebastian-brunner.github.io/tags/industrial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mobile</title>
+      <link>https://sebastian-brunner.github.io/tags/mobile/</link>
+      <pubDate>Sun, 28 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://sebastian-brunner.github.io/tags/mobile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://sebastian-brunner.github.io/tags/python/</link>
+      <pubDate>Sun, 28 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://sebastian-brunner.github.io/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robotics</title>
+      <link>https://sebastian-brunner.github.io/tags/robotics/</link>
+      <pubDate>Sun, 28 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://sebastian-brunner.github.io/tags/robotics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>System Architecture</title>
+      <link>https://sebastian-brunner.github.io/tags/system-architecture/</link>
+      <pubDate>Sun, 28 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://sebastian-brunner.github.io/tags/system-architecture/</guid>
       <description></description>
     </item>
     
@@ -66,38 +111,11 @@
     </item>
     
     <item>
-      <title>Python</title>
-      <link>https://sebastian-brunner.github.io/tags/python/</link>
-      <pubDate>Tue, 10 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://sebastian-brunner.github.io/tags/python/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Software</title>
       <link>https://sebastian-brunner.github.io/tags/software/</link>
       <pubDate>Tue, 10 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>https://sebastian-brunner.github.io/tags/software/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>System Architecture</title>
-      <link>https://sebastian-brunner.github.io/tags/system-architecture/</link>
-      <pubDate>Tue, 10 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://sebastian-brunner.github.io/tags/system-architecture/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Robotics</title>
-      <link>https://sebastian-brunner.github.io/tags/robotics/</link>
-      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://sebastian-brunner.github.io/tags/robotics/</guid>
       <description></description>
     </item>
     
@@ -134,6 +152,24 @@
       <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
       
       <guid>https://sebastian-brunner.github.io/tags/state-machines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graph Database</title>
+      <link>https://sebastian-brunner.github.io/tags/graph-database/</link>
+      <pubDate>Tue, 10 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://sebastian-brunner.github.io/tags/graph-database/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantic Knowledge Base</title>
+      <link>https://sebastian-brunner.github.io/tags/semantic-knowledge-base/</link>
+      <pubDate>Tue, 10 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://sebastian-brunner.github.io/tags/semantic-knowledge-base/</guid>
       <description></description>
     </item>
     
@@ -215,24 +251,6 @@
       <pubDate>Mon, 31 Mar 2014 00:00:00 +0000</pubDate>
       
       <guid>https://sebastian-brunner.github.io/tags/slam/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Graph Database</title>
-      <link>https://sebastian-brunner.github.io/tags/graph-database/</link>
-      <pubDate>Mon, 10 Feb 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://sebastian-brunner.github.io/tags/graph-database/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Semantic Knowledge Base</title>
-      <link>https://sebastian-brunner.github.io/tags/semantic-knowledge-base/</link>
-      <pubDate>Mon, 10 Feb 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://sebastian-brunner.github.io/tags/semantic-knowledge-base/</guid>
       <description></description>
     </item>
     

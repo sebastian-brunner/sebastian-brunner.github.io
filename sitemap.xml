@@ -34,6 +34,59 @@
   </url>
   
   <url>
+    <loc>https://sebastian-brunner.github.io/tags/autonomy/</loc>
+    <lastmod>2019-04-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sebastian-brunner.github.io/tags/industrial/</loc>
+    <lastmod>2019-04-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sebastian-brunner.github.io/tags/mobile/</loc>
+    <lastmod>2019-04-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sebastian-brunner.github.io/project/</loc>
+    <lastmod>2019-04-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sebastian-brunner.github.io/tags/python/</loc>
+    <lastmod>2019-04-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sebastian-brunner.github.io/project/robot_simulation/</loc>
+    <lastmod>2019-04-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sebastian-brunner.github.io/tags/robotics/</loc>
+    <lastmod>2019-04-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sebastian-brunner.github.io/tags/system-architecture/</loc>
+    <lastmod>2019-04-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sebastian-brunner.github.io/tags/</loc>
+    <lastmod>2019-04-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://sebastian-brunner.github.io/authors/admin/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
@@ -59,12 +112,6 @@
   <url>
     <loc>https://sebastian-brunner.github.io/publication/ral2/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sebastian-brunner.github.io/tags/autonomy/</loc>
-    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -115,12 +162,6 @@
   </url>
   
   <url>
-    <loc>https://sebastian-brunner.github.io/tags/</loc>
-    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://sebastian-brunner.github.io/post/jupyter/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
@@ -154,18 +195,6 @@
   </url>
   
   <url>
-    <loc>https://sebastian-brunner.github.io/project/</loc>
-    <lastmod>2018-07-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sebastian-brunner.github.io/tags/python/</loc>
-    <lastmod>2018-07-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://sebastian-brunner.github.io/project/rafcon/</loc>
     <lastmod>2018-07-10T00:00:00+00:00</lastmod>
   </url>
@@ -177,9 +206,8 @@
   </url>
   
   <url>
-    <loc>https://sebastian-brunner.github.io/tags/system-architecture/</loc>
-    <lastmod>2018-07-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://sebastian-brunner.github.io/project/industrial_mobile_robotics/</loc>
+    <lastmod>2018-07-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -207,12 +235,6 @@
   
   <url>
     <loc>https://sebastian-brunner.github.io/authors/rico-belder/</loc>
-    <lastmod>2018-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sebastian-brunner.github.io/tags/robotics/</loc>
     <lastmod>2018-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -393,6 +415,23 @@
   </url>
   
   <url>
+    <loc>https://sebastian-brunner.github.io/tags/graph-database/</loc>
+    <lastmod>2015-02-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sebastian-brunner.github.io/tags/semantic-knowledge-base/</loc>
+    <lastmod>2015-02-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sebastian-brunner.github.io/project/world_model/</loc>
+    <lastmod>2015-02-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sebastian-brunner.github.io/tags/c&#43;&#43;/</loc>
     <lastmod>2014-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -457,24 +496,7 @@
   </url>
   
   <url>
-    <loc>https://sebastian-brunner.github.io/tags/graph-database/</loc>
-    <lastmod>2014-02-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://sebastian-brunner.github.io/project/nlct/</loc>
-    <lastmod>2014-02-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sebastian-brunner.github.io/tags/semantic-knowledge-base/</loc>
-    <lastmod>2014-02-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sebastian-brunner.github.io/project/world_model/</loc>
     <lastmod>2014-02-10T00:00:00+00:00</lastmod>
   </url>
   
