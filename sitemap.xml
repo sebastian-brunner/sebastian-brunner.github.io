@@ -252,8 +252,31 @@
   </url>
   
   <url>
+    <loc>https://sebastian-brunner.github.io/publication_types/1/</loc>
+    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://sebastian-brunner.github.io/authors/bernhard-vodermayer/</loc>
-    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
+    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sebastian-brunner.github.io/authors/heinrich-gmeiner/</loc>
+    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sebastian-brunner.github.io/publication/aerospace2018/</loc>
+    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sebastian-brunner.github.io/tags/space/</loc>
+    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -342,12 +365,6 @@
   </url>
   
   <url>
-    <loc>https://sebastian-brunner.github.io/tags/space/</loc>
-    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://sebastian-brunner.github.io/authors/stefan-buettner/</loc>
     <lastmod>2017-11-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -379,12 +396,6 @@
   <url>
     <loc>https://sebastian-brunner.github.io/project/robex/</loc>
     <lastmod>2017-06-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sebastian-brunner.github.io/publication_types/1/</loc>
-    <lastmod>2016-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -516,6 +527,35 @@
     <loc>https://sebastian-brunner.github.io/tags/unscented-transform/</loc>
     <lastmod>2014-02-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sebastian-brunner.github.io/publication_types/6/</loc>
+    <lastmod>2013-03-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sebastian-brunner.github.io/tags/industry/</loc>
+    <lastmod>2013-03-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sebastian-brunner.github.io/authors/sebastian-denz/</loc>
+    <lastmod>2013-03-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sebastian-brunner.github.io/authors/s%C3%B6ren-jentzsch/</loc>
+    <lastmod>2013-03-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sebastian-brunner.github.io/publication/robocup2014/</loc>
+    <lastmod>2013-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
