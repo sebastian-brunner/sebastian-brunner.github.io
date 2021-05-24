@@ -27,9 +27,7 @@
       
       <guid>https://sebastian-brunner.github.io/project/spacebotcamp/</guid>
       <description>&lt;p&gt;In the SpacebotCamp, our mobile robotic system had to explore an unknwon area, find two objects and bring them to a third object for assembly. All tasks had to be done with a high level of autonomy since communication was delayed by 2 seconds and sending commands was limited to only a few occasions. The whole task had to be done in 60 minutes.&lt;/p&gt;
-
 &lt;p&gt;Our team, RMexplores!, was the only team that fulfilled all tasks within the given specification. This was accomplished in half of the time!&lt;/p&gt;
-
 &lt;p&gt;My responsibilities: Autonomous Task Control, System Architecture&lt;/p&gt;
 </description>
     </item>
@@ -41,9 +39,7 @@
       
       <guid>https://sebastian-brunner.github.io/project/robocup/</guid>
       <description>&lt;p&gt;The Logistics League of the Robocup was set up in 2010 as a demonstration league for industrial applications and is sponsored by Festo since then. In 2012 the league got promoted to an approved major league of the RoboCup with continuously growing importance. The Logistics League enables scientific work for solving logistical problems inside a dynamic production environment with multiple self-organizing autonomous mobile robots. The robots are currently based on the robot platform Robotino from Festo, but can be modified individually in terms of hardware. In order to provide a high rate of product deliveries in due time, the teams have to achieve an efficient, precise and flexible material and information flow within the production hall. From 2014 on both competing teams operate within the same production environment at the same time, which also requires dynamic collision avoidance and increased spatial coordination complexity. This league offers an interdisciplinary approach in the fields of Mechatronics, Computer Science and Logistics in order to deal with all the challenges and requirements further described in the Logistics League Rulebook, including dynamic production plans, out-of-order machines, recycling, changing delivery gates and a random machine distribution.&lt;/p&gt;
-
 &lt;p&gt;My team, the Bavarian Bending Units (former also TUM&amp;rsquo;s Bending Units), won the world championship three times in a row in the RoboCup Logistics League at RoboCup 2011 in Istanbul, at RoboCup 2012 in Mexico City, as well as at RoboCup 2013 in Eindhoven, Netherlands. In 2014, at RoboCup 2014 in João Pessoa, Brazil, we became vice world champion in an exciting and attractive final game against the team Carologistics from Aachen.&lt;/p&gt;
-
 &lt;p&gt;My responsibilities: Perception, Navigation, ROS Infrastructure, Robot Communication&lt;/p&gt;
 </description>
     </item>

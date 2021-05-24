@@ -17,8 +17,7 @@
       <pubDate>Sun, 28 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>https://sebastian-brunner.github.io/project/robot_simulation/</guid>
-      <description>&lt;p&gt;Our &lt;a href=&#34;https://www.dlr.de/rm/en/desktopdefault.aspx/tabid-11409&#34; target=&#34;_blank&#34;&gt;AIMM&lt;/a&gt; robot was simulated using the Gazebo Framework and the ROS middleware. The robot&amp;rsquo;s 12 DOFs were simulated using Gazebo&amp;rsquo;s controller suite. On top of that, path planning, object detection, navigation, world model, and task control (RAFCON) modules were integrated. The simulation was used for industrial and domestic service scenarios (among others for the &lt;a href=&#34;https://ease-crc.org/&#34; target=&#34;_blank&#34;&gt;EASE&lt;/a&gt; project).&lt;/p&gt;
-
+      <description>&lt;p&gt;Our &lt;a href=&#34;https://www.dlr.de/rm/en/desktopdefault.aspx/tabid-11409&#34;&gt;AIMM&lt;/a&gt; robot was simulated using the Gazebo Framework and the ROS middleware. The robot&amp;rsquo;s 12 DOFs were simulated using Gazebo&amp;rsquo;s controller suite. On top of that, path planning, object detection, navigation, world model, and task control (RAFCON) modules were integrated. The simulation was used for industrial and domestic service scenarios (among others for the &lt;a href=&#34;https://ease-crc.org/&#34;&gt;EASE&lt;/a&gt; project).&lt;/p&gt;
 &lt;p&gt;My responsibilities: Full Stack Component Integration, Controller Configuration, Autonomous Task Control, Task Execution Logging and Profiling, Semantic World Modeling&lt;/p&gt;
 </description>
     </item>
@@ -38,10 +37,8 @@
       <pubDate>Mon, 02 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>https://sebastian-brunner.github.io/project/industrial_mobile_robotics/</guid>
-      <description>&lt;p&gt;The &lt;a href=&#34;https://www.dlr.de/rm/en/desktopdefault.aspx/tabid-11409&#34; target=&#34;_blank&#34;&gt;AIMM&lt;/a&gt; robot is an industrial mobile manipulator able to autonomously perceive and manipulate its environment. It was used for various scenarios (especially pre-assembly and logistics) in multiple projects and demos: &lt;a href=&#34;https://factory-of-the-future.dlr.de/&#34; target=&#34;_blank&#34;&gt;FoF&lt;/a&gt;, &lt;a href=&#34;http://www.euroc-project.eu/&#34; target=&#34;_blank&#34;&gt;EuRoC&lt;/a&gt;, &lt;a href=&#34;https://messe-muenchen.de/en/technical/events/automatica-2018.php&#34; target=&#34;_blank&#34;&gt;Automatica 2018&lt;/a&gt;, &lt;a href=&#34;http://www.tapas-project.eu/&#34; target=&#34;_blank&#34;&gt;TAPAS&lt;/a&gt; and &lt;a href=&#34;https://messe-muenchen.de/en/technical/events/automatica-2016.php&#34; target=&#34;_blank&#34;&gt;Automatica 2016&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;I am a core developer of AIMM&amp;rsquo;s software stack. My main responsibilities are creating software for autonomous task control and belief state modeling. We put a high effort in the system architecture of AIMM, as it is a complex, mobile robot with 13 DOFs (including an impedance controlled LWR 4+), four cameras systems (able to produce depth information using &lt;a href=&#34;https://core.ac.uk/download/pdf/11134866.pdf&#34; target=&#34;_blank&#34;&gt;SGM&lt;/a&gt;) and laser scanners. It features six computers: One for low-level realtime control, one for navigation, one for object detection and scene reconstruction, one for path planning, one for data logging and processing and one for high level autonomy. On top of the multitude of software models we employ four different middlewares: &amp;lsquo;links and nodes&amp;rsquo; for realtime control, &amp;lsquo;sensornet&amp;rsquo; for high bandwidth sensor data, &amp;lsquo;ROS&amp;rsquo; for third party library integration and data visualization, and Kuka&amp;rsquo;s Sunrise middleware. We use continuous integration to develop and release new software. Furthermore, we employ a powerful release and dependency management toolchain to track and deploy consistent software versions to AIMM.&lt;/p&gt;
-
+      <description>&lt;p&gt;The &lt;a href=&#34;https://www.dlr.de/rm/en/desktopdefault.aspx/tabid-11409&#34;&gt;AIMM&lt;/a&gt; robot is an industrial mobile manipulator able to autonomously perceive and manipulate its environment. It was used for various scenarios (especially pre-assembly and logistics) in multiple projects and demos: &lt;a href=&#34;https://factory-of-the-future.dlr.de/&#34;&gt;FoF&lt;/a&gt;, &lt;a href=&#34;http://www.euroc-project.eu/&#34;&gt;EuRoC&lt;/a&gt;, &lt;a href=&#34;https://messe-muenchen.de/en/technical/events/automatica-2018.php&#34;&gt;Automatica 2018&lt;/a&gt;, &lt;a href=&#34;http://www.tapas-project.eu/&#34;&gt;TAPAS&lt;/a&gt; and &lt;a href=&#34;https://messe-muenchen.de/en/technical/events/automatica-2016.php&#34;&gt;Automatica 2016&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I am a core developer of AIMM&amp;rsquo;s software stack. My main responsibilities are creating software for autonomous task control and belief state modeling. We put a high effort in the system architecture of AIMM, as it is a complex, mobile robot with 13 DOFs (including an impedance controlled LWR 4+), four cameras systems (able to produce depth information using &lt;a href=&#34;https://core.ac.uk/download/pdf/11134866.pdf&#34;&gt;SGM&lt;/a&gt;) and laser scanners. It features six computers: One for low-level realtime control, one for navigation, one for object detection and scene reconstruction, one for path planning, one for data logging and processing and one for high level autonomy. On top of the multitude of software models we employ four different middlewares: &amp;lsquo;links and nodes&amp;rsquo; for realtime control, &amp;lsquo;sensornet&amp;rsquo; for high bandwidth sensor data, &amp;lsquo;ROS&amp;rsquo; for third party library integration and data visualization, and Kuka&amp;rsquo;s Sunrise middleware. We use continuous integration to develop and release new software. Furthermore, we employ a powerful release and dependency management toolchain to track and deploy consistent software versions to AIMM.&lt;/p&gt;
 &lt;p&gt;My responsibilities: Autonomous Task Control, System Architecture, Task Execution Logging and Profiling, Semantic World Modeling&lt;/p&gt;
 </description>
     </item>
@@ -53,9 +50,7 @@
       
       <guid>https://sebastian-brunner.github.io/project/robex/</guid>
       <description>&lt;p&gt;For the Demonstration Mission Space a dedicated scenario was chosen by the ROBEX lunar scientists. The scenario describes the installation of an active seismic network (ASN) on the Moon’s surface. The main focus is the measurement of the internal structure and the composition of the upper layer, the lunar regolith. Other questions are the existence and composition of a central core of the Moon and if there is any seismic activity. The seismometers are planned to be transported by a rover and put down on surface by means of a robotic arm.&lt;/p&gt;
-
 &lt;p&gt;The analogue mission on the Mt. Etna basically consisted of two individual experiments: First, our rover mapped the lander site, deployed the seismic instrument, waited until one measurement cycle was done, took it up again and repeated the measurement on several points of interest. In the second experiment, the rover had to set up a seismic network consisting of four instruments that had to be arranged at three corner points and the center point of an equilateral triangle of about 100 m. Both scenarios required the robot to be equipped with highly robust navigation, perception and manipulation capabilities in order to place the instruments carefully and precisely onto the ground. Our robot was able to perform these tasks fully autonomously.&lt;/p&gt;
-
 &lt;p&gt;My responsibilities: Autonomous Task Control, System Architecture, Task Execution Logging and Profiling, Semantic World Modeling&lt;/p&gt;
 </description>
     </item>
@@ -67,9 +62,7 @@
       
       <guid>https://sebastian-brunner.github.io/project/spacebotcamp/</guid>
       <description>&lt;p&gt;In the SpacebotCamp, our mobile robotic system had to explore an unknwon area, find two objects and bring them to a third object for assembly. All tasks had to be done with a high level of autonomy since communication was delayed by 2 seconds and sending commands was limited to only a few occasions. The whole task had to be done in 60 minutes.&lt;/p&gt;
-
 &lt;p&gt;Our team, RMexplores!, was the only team that fulfilled all tasks within the given specification. This was accomplished in half of the time!&lt;/p&gt;
-
 &lt;p&gt;My responsibilities: Autonomous Task Control, System Architecture&lt;/p&gt;
 </description>
     </item>
@@ -80,16 +73,14 @@
       <pubDate>Tue, 10 Feb 2015 00:00:00 +0000</pubDate>
       
       <guid>https://sebastian-brunner.github.io/project/world_model/</guid>
-      <description>&lt;p&gt;The world model is implemented using the graph database Neo4j (&lt;a href=&#34;https://neo4j.com/&#34; target=&#34;_blank&#34;&gt;https://neo4j.com/&lt;/a&gt;) as backend.
+      <description>&lt;p&gt;The world model is implemented using the graph database Neo4j (&lt;a href=&#34;https://neo4j.com/&#34;&gt;https://neo4j.com/&lt;/a&gt;) as backend.
 Neo4j represents data using a property-graph model, meaning the database is a graph composed of nodes and interconnected by edges, both of which can store arbitrary properties in a key-value fashion.
 For our world model, we directly represent objects in the world model as nodes in the database graph and correspondingly edges in the graph build up the world model tree structure.
 The relative position and orientation between two objects is stored as properties of the connecting edge.
 We define and ensure a common type-system for objects in the world, by defining a type-hierarchy with precisely listed required and optional properties for each object type (e.g. every PhysicalObject has to have a mass; every Grasp a width and force).&lt;/p&gt;
-
 &lt;p&gt;A database as backend in general provides useful features to keep the world model consistent at any time, e.g. synchronized multi-client read-/write-access and transaction support for batching multiple modifications into an atomic operation.
 In particular, we use transactions with pre-/post-transaction sanity checks to allow complex yet safe operations on the world model. In case of a software error or violated sanity checks (e.g. a world model object suddenly has two parents), the world model is automatically rolled back to the consistent state before this modification.
 As a graph database, Neo4j offers a pattern-related query language called CYPHER, which makes it very easy to query the world model for e.g. &amp;ldquo;all rigid bodies for which a grasp is defined.&amp;rdquo;&lt;/p&gt;
-
 &lt;p&gt;We use YAML-files as a human read-/writeable way to specify the initial world model, but also complex object templates (e.g. complete subgraphs of PhysicalObjects together with attached Grasps and Markers, etc.). To add such templates into the world model, we developed a domain-specific module and API for higher level operations based on the raw CYPHER-access to the database.
 Other more complex operations include querying the relative transformation between arbitrary objects in the graph or maintaining unique labels for nodes. This API is the basis for several adapter modules which make operations accessible via ROS services. New functionality or composite operations can be added in a modular way by writing additional adapters as necessary.&lt;/p&gt;
 </description>
@@ -102,9 +93,7 @@ Other more complex operations include querying the relative transformation betwe
       
       <guid>https://sebastian-brunner.github.io/project/robocup/</guid>
       <description>&lt;p&gt;The Logistics League of the Robocup was set up in 2010 as a demonstration league for industrial applications and is sponsored by Festo since then. In 2012 the league got promoted to an approved major league of the RoboCup with continuously growing importance. The Logistics League enables scientific work for solving logistical problems inside a dynamic production environment with multiple self-organizing autonomous mobile robots. The robots are currently based on the robot platform Robotino from Festo, but can be modified individually in terms of hardware. In order to provide a high rate of product deliveries in due time, the teams have to achieve an efficient, precise and flexible material and information flow within the production hall. From 2014 on both competing teams operate within the same production environment at the same time, which also requires dynamic collision avoidance and increased spatial coordination complexity. This league offers an interdisciplinary approach in the fields of Mechatronics, Computer Science and Logistics in order to deal with all the challenges and requirements further described in the Logistics League Rulebook, including dynamic production plans, out-of-order machines, recycling, changing delivery gates and a random machine distribution.&lt;/p&gt;
-
 &lt;p&gt;My team, the Bavarian Bending Units (former also TUM&amp;rsquo;s Bending Units), won the world championship three times in a row in the RoboCup Logistics League at RoboCup 2011 in Istanbul, at RoboCup 2012 in Mexico City, as well as at RoboCup 2013 in Eindhoven, Netherlands. In 2014, at RoboCup 2014 in João Pessoa, Brazil, we became vice world champion in an exciting and attractive final game against the team Carologistics from Aachen.&lt;/p&gt;
-
 &lt;p&gt;My responsibilities: Perception, Navigation, ROS Infrastructure, Robot Communication&lt;/p&gt;
 </description>
     </item>
@@ -126,13 +115,11 @@ Other more complex operations include querying the relative transformation betwe
       
       <guid>https://sebastian-brunner.github.io/project/nlct/</guid>
       <description>&lt;p&gt;NLCT is short for Non-Linear Covariance Transform library. It is a fast and lightweight library written in C++ to:&lt;/p&gt;
-
 &lt;ul&gt;
 &lt;li&gt;convert the covariance matrices for poses between different representations: Quaternions, Euler Angle (both fixed and moving frames)&lt;/li&gt;
 &lt;li&gt;compute the composition of multiple certain and uncertain poses&lt;/li&gt;
 &lt;li&gt;transform the covariance of a pose from one coordinate frame into another&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;p&gt;For all functions the user can choose the computation method: UNSCENTED, JACOBIAN, SAMPLING. The computation methods are a trade-off between accuracy and computation speed. The library includes functions for normalization, representation conversion and pose transformation (like composition, inversion etc.).&lt;/p&gt;
 </description>
     </item>
